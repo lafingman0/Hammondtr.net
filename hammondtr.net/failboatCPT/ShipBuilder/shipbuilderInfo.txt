@@ -1,0 +1,3 @@
+This will be a c# program, that is viewed with asp.net, so will be interactive with my website.
+
+Or, this could be both a javascript example, and then the hardcoded version in c#

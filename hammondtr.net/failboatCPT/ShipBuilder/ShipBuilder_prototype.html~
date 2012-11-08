@@ -1,0 +1,47 @@
+<html>
+
+
+	<script type="text/javascript">
+		//hopefully make player feel invested in their ship as it progresses
+		
+		//for this prototype, include a tutorial about what everything means.
+	</script>
+
+
+	<div id="container">
+	
+		<div id="playerInfo">
+			<!-- displays player name, currency etc -->
+		</div>
+
+		<div id="primaryAttributeSelection">
+			<!-- First selection screen makes many determinations -->
+			<script>
+				//name your craft
+				//choose between available families
+				//choose two utilities
+					//display descriptions and different traits of the different utilities
+
+				//do visual design
+			</script>
+		</div>
+
+		<div id="shipUtilitiesSelection">
+			<!--  -->
+			<script>
+				//
+			
+			</script>
+		</div>
+	
+	
+	</div>
+
+	<div id="tagline">
+	</div>
+
+
+	<p>
+	Things fish tales are made of...
+	</p>
+</html>

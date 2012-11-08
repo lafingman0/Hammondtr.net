@@ -1,0 +1,56 @@
+<html>
+
+	<h1>FailboatCPT - A Brief Overview</h1>
+	
+	<p>
+	FailboatCPT is a game that I have been having ideas about for roughly a year. I have an idea of where I want to go with the game,
+	but I am not exactly sure how I will implement it. What the game will be:
+	</p>
+
+	<p>
+	FailboatCPT will be a multiplayer, campaign-based, RPG-style ship building game, with elements including nods to SCHMUPS/Raiden, simple
+	yet complex gameplay reminsicent of tetris, and in-depth balance/team building for the high-difficulty events (difficulty curve somewhat familiar
+	to diablo. There will be many things the player can upgrade, including their hangar, ships, etc and will be fueled by a currency that is generated
+	per mission. Completing groups of missions may unlock certain upgrades: special harpoons perhaps, or a special jetski-craft.
+	</p>
+
+	<p>While I will focus largely on multiplayer gameplay as the benchmark experience. I want players to be able to try out different types of gameplay
+	(ie different ships) and build them on their own time. For this reason, there will be a mode for single-person missions, that may include
+	being able to use your entire hangar, being able to 'tab' between your different ships.</p>
+
+	<h2>Ship Building</h2>
+
+	<p>
+	Each ship will be analagous to an MMO character, and should take quite awhile to 'build' and customize. The rough idea behind customization is as follows:
+	</p>
+
+	<ul>
+		<li>Ships will have utilities (similar to skill trees), which they can choose depending on their hull size. Certain utilities - ie summon aircraft, are
+		only available to specific hulls. In this case, the aircraft carrier. A common utility may be "direct gunfire" or something similar.</li>
+		<li>Ships will have reputations. As you use your ship in more advanced missions, you will gain reputation and currency. You may use currency on certain
+		armaments, new hulls, hangar upgrades, visual changes, etc. A ship's reputation determines how significant of upgrades it may have equipped.</li>
+		<li>As mission level increases, and ship utilities expand, players will find that a solid mix of utilities will be needed to complete missions.</li>
+	</ul>
+
+	<p>This is the process of building a ship:</p>
+
+	<ul>
+		<li>Name</li>
+		<li>Hull Size (1-12), layout</li>
+		<li>Propulsion Utility</li>
+		<li>Other Utilities, limited by hull size</li>
+	</ul>
+
+	<p>
+		Each utility is progressed as a 'skill tree'. Certain abilities will have prerequisite reputation, equipment, and crew. Players will be able to choose
+		up to 6 abilities (possibly more) to be active during any mission.
+	</p>
+
+	<form>
+		<input name="shipName" type="text" /> <br />
+		<input name="
+	</form>
+	
+
+
+</html>
